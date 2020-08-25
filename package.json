@@ -37,7 +37,7 @@
   "dependencies": {
     "@babel/polyfill": "^7.7.0",
     "core-js": "3",
-    "highcharts": "^8.0.4",
+    "highcharts": "^8.1.1",
     "highcharts-indicators": "^2.1.6",
     "ssh-exec": "^2.0.0"
   },
